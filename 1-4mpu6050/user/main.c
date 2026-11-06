@@ -2,7 +2,7 @@
 #include "menu.h"
 #include "oled.h"
 #include "MyButton.h"
-//试用一下revert
+
 volatile uint8_t Button_NUM = 0;
 
 
